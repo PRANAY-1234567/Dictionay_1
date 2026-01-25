@@ -70,3 +70,5 @@ Use collections.Counter
 👨‍💻 Author
 
 Pranay Jadhao
+
+<img width="635" height="625" alt="image" src="https://github.com/user-attachments/assets/d1d66723-3640-4d90-a788-abdabb464b02" />
