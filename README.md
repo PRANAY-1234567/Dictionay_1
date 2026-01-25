@@ -1,4 +1,5 @@
 🔡 Count Frequency of Characters in a String (Python)
+
 📌 Description
 
 This program counts how many times each character appears in a given string.
