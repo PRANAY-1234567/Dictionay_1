@@ -11,7 +11,6 @@ Given a word:
 
 "apple"
 
-
 Count the occurrence of each character.
 
 ✅ Code
