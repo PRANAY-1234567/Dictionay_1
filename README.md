@@ -25,13 +25,9 @@ print(count)
 🧠 Explanation
 
 An empty dictionary count is created
-
 The loop goes through each character in the string
-
 get(ch, 0) returns the current count (0 if the key does not exist)
-
 The count is increased by 1 for each occurrence
-
 The final dictionary shows character frequencies
 
 🖨 Example Output
