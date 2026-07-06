@@ -60,11 +60,8 @@ Text processing
 🚀 Possible Improvements
 
 Ignore case sensitivity
-
 Handle sentences with spaces
-
 Convert into a function
-
 Use collections.Counter
 
 👨‍💻 Author
